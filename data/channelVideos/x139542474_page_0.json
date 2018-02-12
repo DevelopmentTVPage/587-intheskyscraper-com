@@ -1,0 +1,110 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "139542628",
+            "title": "Trance-Techno Disco",
+            "date_created": "1518057399",
+            "loginId": "1759130",
+            "tags": null,
+            "description": "Some song.",
+            "asset": {
+                "type": "youtube",
+                "author": "091330001",
+                "hdvFlag": 0,
+                "description": "Some song.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/L698B7LeZcY\/hqdefault.jpg",
+                "videoId": "L698B7LeZcY",
+                "mediaDuration": 230,
+                "prettyDuration": "00:03:50"
+            },
+            "parentId": "139542474",
+            "url": "\/fabric-of-existence\/trance-techno-disco\/139542474-139542628"
+        },
+        {
+            "id": "139542608",
+            "title": "GTA V - RADIO FLYLO FM FULL ( NEXT GEN )",
+            "date_created": "1518032258",
+            "loginId": "1759130",
+            "tags": null,
+            "description": "GTA V - RADIO FLYLO FM FULL ( NEXT GEN ) 0:00 - 2:27 FLYING LOTUS FEAT. NIKI RANDA - GETTING THERE 2:28 - 3:49 CLAMS CASINO - CRYSTALS 3:50 - 4:22 FLYING LOTUS - CROSSWERVED 4:53 - 6:06 FLYING...",
+            "asset": {
+                "type": "youtube",
+                "author": "WARZER B",
+                "hdvFlag": 0,
+                "description": "GTA V - RADIO FLYLO FM FULL ( NEXT GEN ) 0:00 - 2:27 FLYING LOTUS FEAT. NIKI RANDA - GETTING THERE 2:28 - 3:49 CLAMS CASINO - CRYSTALS 3:50 - 4:22 FLYING LOTUS - CROSSWERVED 4:53 - 6:06 FLYING...",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OIwxh9bEiR4\/maxresdefault.jpg",
+                "videoId": "OIwxh9bEiR4",
+                "mediaDuration": 4300,
+                "prettyDuration": "01:11:40"
+            },
+            "parentId": "139542474",
+            "url": "\/fabric-of-existence\/gta-v-radio-flylo-fm-full-next-gen\/139542474-139542608"
+        },
+        {
+            "id": "139542607",
+            "title": "I am Arthur Frayn, I am Zardoz",
+            "date_created": "1518029341",
+            "loginId": "1759130",
+            "tags": null,
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "author": "Sternwise",
+                "hdvFlag": 0,
+                "description": "",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gDDQuavCa3Y\/hqdefault.jpg",
+                "videoId": "gDDQuavCa3Y",
+                "mediaDuration": 498,
+                "prettyDuration": "00:08:18"
+            },
+            "parentId": "139542474",
+            "url": "\/fabric-of-existence\/i-am-arthur-frayn-i-am-zardoz\/139542474-139542607"
+        },
+        {
+            "id": "139542476",
+            "title": "Space and Time - Goa Trance Set G.S.",
+            "date_created": "1518025875",
+            "loginId": "1759130",
+            "tags": null,
+            "description": "Oldskool Goa Trance Mix 2016 - Goa Spirit",
+            "asset": {
+                "type": "youtube",
+                "author": "GoaSpiritOfficial",
+                "hdvFlag": 1,
+                "description": "Oldskool Goa Trance Mix 2016 - Goa Spirit",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WwmzoFxzFqE\/maxresdefault.jpg",
+                "videoId": "WwmzoFxzFqE",
+                "mediaDuration": 4243,
+                "prettyDuration": "01:10:43"
+            },
+            "parentId": "139542474",
+            "url": "\/fabric-of-existence\/space-and-time-goa-trance-set-g-s\/139542474-139542476"
+        },
+        {
+            "id": "139542473",
+            "title": "Palpatine's Teachings Extended Ambient",
+            "date_created": "1518024335",
+            "loginId": "1759130",
+            "tags": null,
+            "description": "This is a ambient video I made that can be used for studying. Its an extended version of the first part of the track Palpatine's Teachings from Revenge of the Sith.",
+            "asset": {
+                "type": "youtube",
+                "author": "PBambient",
+                "hdvFlag": 1,
+                "description": "This is a ambient video I made that can be used for studying. Its an extended version of the first part of the track Palpatine's Teachings from Revenge of the Sith.",
+                "tags": "",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/524I4RV3m1o\/maxresdefault.jpg",
+                "videoId": "524I4RV3m1o",
+                "mediaDuration": 911,
+                "prettyDuration": "00:15:11"
+            },
+            "parentId": "139542474",
+            "url": "\/fabric-of-existence\/palpatine-s-teachings-extended-ambient\/139542474-139542473"
+        }
+    ]
+}
