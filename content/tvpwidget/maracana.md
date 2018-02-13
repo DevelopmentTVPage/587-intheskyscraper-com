@@ -19,6 +19,13 @@
             "widget_border_color": "rgba(0, 0, 0, 1)",
             "widget_border_width": "8",
             "body_font_family": "Open Sans"
+        },
+        ".carousel-arrow": {
+            "carousel_arrow_background_color": "rgba(255, 0, 0, 1)",
+            "carousel_arrow_display": "block",
+            "carousel_arrow_color": "rgba(0, 255, 65, 1)",
+            "carousel_arrow_hover_background_color": "rgba(0, 255, 23, 1)",
+            "carousel_arrow_hover_color": "rgba(255, 0, 0, 1)"
         }
     }
 }
